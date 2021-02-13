@@ -58,6 +58,7 @@ _langs = {
     "ur": "Urdu",
     "vi": "Vietnamese",
     "zh-CN": "Chinese"
+    "yo": "Yoruba"
 }
 
 def _main_langs():
